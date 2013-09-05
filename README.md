@@ -27,6 +27,4 @@ Tools
 
 [vim-coffee-script](https://github.com/kchmck/vim-coffee-script)
 
-[scss-syntax.vim](https://github.com/cakebaker/scss-syntax.vim)
-
 [emmet.vim](http://mattn.github.io/emmet-vim/)
