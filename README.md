@@ -23,10 +23,11 @@ Online Tutorials
 Tools
 -----
 
-[Vundle](https://github.com/gmarik/vundle)
-
 [Janus](https://github.com/carlhuda/janus)
 
-[rails.vim](https://github.com/tpope/vim-rails)
-
 [emmet.vim](http://mattn.github.io/emmet-vim/)
+
+~~[Vundle](https://github.com/gmarik/vundle)~~
+
+~~[rails.vim](https://github.com/tpope/vim-rails)~~
+
