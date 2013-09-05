@@ -25,6 +25,4 @@ Tools
 
 [rails.vim](https://github.com/tpope/vim-rails)
 
-[vim-coffee-script](https://github.com/kchmck/vim-coffee-script)
-
 [emmet.vim](http://mattn.github.io/emmet-vim/)
