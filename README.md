@@ -14,6 +14,8 @@ Online Tutorials
 
 [Vim for Ruby on Rails (and a sexy theme!)](http://astonj.com/tech/vim-for-ruby-rails-and-a-sexy-theme/)
 
+[Rails.vim 高效使用指南](http://ruby-china.org/topics/4478)
+
 [Railscasts China](http://railscasts-china.com/episodes?query=vim)
 
 [HappyCasts](http://happycasts.net/episodes?tag_id=1)
