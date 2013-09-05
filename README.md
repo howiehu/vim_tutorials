@@ -12,6 +12,10 @@ Online Tutorials
 
 [简明Vim练级攻略](http://coolshell.cn/articles/5426.html)
 
+[Tmux and Vim, get married.](http://thedrearlight.com/blog/tmux-vim.html)
+
+[The Text Triumvirate](http://www.drbunsen.org/the-text-triumvirate/)
+
 [Vim for Ruby on Rails (and a sexy theme!)](http://astonj.com/tech/vim-for-ruby-rails-and-a-sexy-theme/)
 
 [Rails.vim 高效使用指南](http://ruby-china.org/topics/4478)
@@ -24,6 +28,8 @@ Tools
 -----
 
 [Janus](https://github.com/carlhuda/janus)
+
+[Powerline for vim](https://github.com/Lokaltog/vim-powerline)
 
 [emmet.vim](http://mattn.github.io/emmet-vim/)
 
