@@ -29,7 +29,9 @@ Tools
 
 [Janus](https://github.com/carlhuda/janus)
 
-[Powerline for vim](https://github.com/Lokaltog/vim-powerline)
+[Powerline](https://github.com/Lokaltog/powerline)
+
+[vim-aireline](https://github.com/bling/vim-airline)
 
 [emmet.vim](http://mattn.github.io/emmet-vim/)
 
