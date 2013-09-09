@@ -14,6 +14,8 @@ Online Tutorials
 
 [Best Vim Tips](http://vim.wikia.com/wiki/Best_Vim_Tips)
 
+[給程式設計師的Vim入門圖解說明](http://blog.vgod.tw/2009/12/08/vim-cheat-sheet-for-programmers/)
+
 [Tmux and Vim, get married.](http://thedrearlight.com/blog/tmux-vim.html)
 
 [The Text Triumvirate](http://www.drbunsen.org/the-text-triumvirate/)
@@ -41,3 +43,7 @@ Tools
 
 ~~[rails.vim](https://github.com/tpope/vim-rails)~~
 
+Photos
+------
+
+![給程式設計師的Vim入門圖解說明](http://i683.photobucket.com/albums/vv200/howiehucn/Temp/vim-cheat-sheet-en.png)
