@@ -12,6 +12,8 @@ Online Tutorials
 
 [简明Vim练级攻略](http://coolshell.cn/articles/5426.html)
 
+[Best Vim Tips](http://vim.wikia.com/wiki/Best_Vim_Tips)
+
 [Tmux and Vim, get married.](http://thedrearlight.com/blog/tmux-vim.html)
 
 [The Text Triumvirate](http://www.drbunsen.org/the-text-triumvirate/)
