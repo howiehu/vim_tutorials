@@ -33,6 +33,8 @@ Tools
 
 [Janus](https://github.com/carlhuda/janus)
 
+[YADR](https://github.com/skwp/dotfiles)
+
 [Powerline](https://github.com/Lokaltog/powerline)
 
 [vim-aireline](https://github.com/bling/vim-airline)
