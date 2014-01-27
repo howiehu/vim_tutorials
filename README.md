@@ -12,6 +12,8 @@ Online Tutorials
 
 [简明Vim练级攻略](http://coolshell.cn/articles/5426.html)
 
+[vi/vim使用进阶](http://easwy.com/blog/archives/advanced-vim-skills-catalog/)
+
 [Best Vim Tips](http://vim.wikia.com/wiki/Best_Vim_Tips)
 
 [給程式設計師的Vim入門圖解說明](http://blog.vgod.tw/2009/12/08/vim-cheat-sheet-for-programmers/)
