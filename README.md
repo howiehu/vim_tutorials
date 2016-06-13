@@ -51,3 +51,5 @@ Photos
 ------
 
 ![給程式設計師的Vim入門圖解說明](http://i683.photobucket.com/albums/vv200/howiehucn/Temp/vim-cheat-sheet-en.png)
+
+![Vim-cheat-sheet](https://cdn.shopify.com/s/files/1/0165/4168/files/preview.png)
